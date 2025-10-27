@@ -1,4 +1,4 @@
-StyleSynce 👗🎨
+StyleSynce
 AI-Powered Fashion Recommendation System Based on Skin Tone and Color Theory
 
 🔍 Overview
@@ -28,20 +28,4 @@ Data: Kaggle – Fashion Product Images Dataset
 
 🎯 Use Case
 Perfect for building personalized fashion experiences in retail apps or as a foundation for AI stylists.
-
-🚀 How to Run
-Clone the notebook or open it in Google Colab.
-
-Download the required datasets from Kaggle.
-
-Choose image input method: webcam or upload.
-
-View skin tone detection results and outfit suggestions.
-
-📷 Sample Output
-Detected Skin Tone: Tan
-
 Recommended Colors: Beige, Cream, Sea Green
-
-Outfit: Blue Topwear + Cream Bottomwear + Off-white Shoes
-
